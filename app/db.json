@@ -10,16 +10,12 @@
     {
       "message": "test",
       "attention": true,
-      "tech": "Sam Smith",
-      "date": "2019-07-14T18:29:43.639Z",
-      "id": 3
-    },
-    {
-      "message": "test",
-      "attention": true,
       "tech": "John Doe",
       "date": "2019-07-14T18:29:56.937Z",
       "id": 5
+    },
+    {
+      "id": 7
     }
   ],
   "techs": [
